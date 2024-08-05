@@ -21,6 +21,6 @@ export default function NavMain(){
                     </li>
                 </ul>                
             </div>
-            </nav>
+        </nav>
     )
 } 
